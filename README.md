@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MrAvinash08
+- 👋 Hi, I’m Avinash
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate for learning 
